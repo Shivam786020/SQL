@@ -1,2 +1,2 @@
 # SQL
-SQL Solutions
+SQL Solutions Leetcode and many more
